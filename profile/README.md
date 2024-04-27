@@ -1,4 +1,4 @@
-<div align="center" width="100%"><img src="https://github.com/oxyos/.github/assets/24487638/d4a779c9-b685-4279-bfed-b552ba00b8bb" style="width:200px;"></div>
+<div align="center" width="100%"><img src="https://github.com/oxyos/.github/assets/24487638/6c9f51c4-2fb2-405a-9774-00c79e2a1769" style="width:200px;"></div>
 
 # Occidental College Computer Science Club
 
